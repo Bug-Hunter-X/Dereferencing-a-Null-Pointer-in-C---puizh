@@ -1,0 +1,3 @@
+# Dereferencing a Null Pointer in C++
+
+This repository demonstrates a common error in C++: dereferencing a null pointer.  The `bug.cpp` file contains the erroneous code, while `bugSolution.cpp` provides a corrected version.  The error results in undefined behavior, often manifesting as a segmentation fault.  This example highlights the importance of always checking for null pointers before dereferencing them to prevent program crashes.
